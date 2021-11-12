@@ -2,8 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SW-Choijiwon&theme=buefy&show_icons=true)
 
+<br>
 <h3> ✨ Profile ✨ </h3>
-<p> 🙌🏻 Hi there! I'm a senior at Gachon Univ. and <b>mobile app developer</b> using Android. <br>
+<p> 🙌🏻 Hi there! I'm a senior at Gachon Univ. <br>
+  My major is software and my minor is in business administration. <br>
+  I'm hitting the books to become a <b>mobile app developer</b> using Android! 👩🏻‍💻🔥<br>
 </p>
 
 
