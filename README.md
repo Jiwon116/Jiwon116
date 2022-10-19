@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Choi%20Jiwon&fontSize=80)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwon116&theme=buefy&show_icons=true)
-
 <br>
 <h3> ✨ Profile ✨ </h3>
 <p> 🙌🏻 Hi there! I'm a senior at Gachon Univ. <br>
